@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.login-card{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border-style: border-box;
+    flex-direction: column;
+}
